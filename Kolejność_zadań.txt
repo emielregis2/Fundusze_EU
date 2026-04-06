@@ -1,0 +1,16 @@
+Kolejność:
+
+ 
+
+1.       I_Wzorcowa_BD
+
+2.       II_Baza_PT, III_Model_PT, IV_Baza_CB, V_Model_CB -  z tym, że w podzadania PT i CB to wiadomo, że najpierw baza a później model. Ale PT i CB są niezależne i można robić równolegle. Warunkiem oczywiście jest ukończenie Wzorcowej BD.
+
+3.       VI_Baza_KZ, VII_Model_KZ, VIII_Baza MWS, IX_Model_MWS -  tutaj podobnie jak wyżej. Najpierw baza później model, ale KZ i MWS są niezależne i mogę być  robione równolegle. Warunkiem startu jest skończenie CB (cyfrowy bliźniak)
+
+4.       X_Platforma WMS – to możemy zacząć po zakończeniu poprzednich modeli. Chociaż być może platformę można by wystartować jeśli mamy chociaż jeden model. Chyba dało by się to wybronić, więc jeśli się okaże że jakieś zasoby są wolne to możemy wystartować z Platformą wcześniej.
+
+5.       XI_WDROŻENIE – to już na 100% możemy startować dopiero po zakończeniu wszystkich poprzednich zadań.
+
+
+
